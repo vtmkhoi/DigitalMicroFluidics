@@ -12,4 +12,4 @@ hardware/MFD_demo/MFD_demo-backups
 
 #Trash
 hardware/*.rar
-ref/
+hardware/Libs/OpenDrop-master/

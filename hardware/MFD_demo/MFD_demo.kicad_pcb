@@ -2444,7 +2444,7 @@
 
   (footprint "GaudiLabsFootPrints:FLUXPAD_2_75_4MIL_FINAL" (layer "F.Cu")
     (tedit 57332AA9) (tstamp bb9a9f1c-33ea-4357-8c87-f88e0865a795)
-    (at 139.48 111.506)
+    (at 139.48 110.236)
     (property "Sheetfile" "MFD_demo.kicad_sch")
     (property "Sheetname" "")
     (path "/11d27e1f-8f9d-42aa-8cc4-a8e90c7c0c3b")
