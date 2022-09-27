@@ -1,2 +1,15 @@
 #Backup file
 *.bak
+
+
+#un-used files of KiCad
+hardware/MFD_demo/fp-info-cache
+hardware/MFD_demo/FX.kicad_sym
+hardware/MFD_demo/MFD_demo.kicad_prl
+hardware/MFD_demo/MFD_demo.kicad_sch-bak
+hardware/MFD_demo/sym-lib-table
+hardware/MFD_demo/MFD_demo-backups
+
+#Trash
+hardware/*.rar
+src/OpenDrop-master/
